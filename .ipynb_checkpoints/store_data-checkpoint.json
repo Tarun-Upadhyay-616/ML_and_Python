@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alice Johnson",
+    "age": 28,
+    "review": 4.5,
+    "country": "USA"
+  },
+  {
+    "name": "brian smith",
+    "age": "34",
+    "review": "Five",
+    "country": "USA"
+  },
+  {
+    "name": "   Charlie Brown  ",
+    "age": null,
+    "review": "two",
+    "country": "Canada"
+  },
+  {
+    "name": "Diana Prince",
+    "age": 200,
+    "review": "3.5",
+    "country": "US"
+  },
+  {
+    "name": null,
+    "age": 29,
+    "review": "Zero",
+    "country": "UK"
+  },
+  {
+    "name": "EVAN",
+    "age": -5,
+    "review": "thRee",
+    "country": "germany"
+  }
+]
